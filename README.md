@@ -1,4 +1,4 @@
-# 🤖 Meeting Analytics System
+# Meeting Analytics System
 
 > **Automated meeting summarization and action item extraction using NLP and transformer models**
 
@@ -8,7 +8,7 @@
 
 **Key Results:** 91% improvement over baseline | 72% classification accuracy | BERTScore 0.862
 
-## 📖 Overview
+## Overview
 
 This NLP pipeline automatically processes meeting transcripts and generates:
 
@@ -19,7 +19,7 @@ This NLP pipeline automatically processes meeting transcripts and generates:
 **Problem:** Manual note-taking is time-consuming and misses important details.  
 **Solution:** Automated system that transforms raw transcripts into actionable meeting minutes.
 
-## 🎯 Technical Approach
+## Technical Approach
 
 ### 1. Data Processing
 - Processed **247 meeting transcripts** from AMI and ICSI corpora (1,171 utterances)
@@ -72,7 +72,7 @@ Example JSON output:
 }
 ```
 
-## 📊 Results
+## Results
 
 ### Summarization Performance
 
